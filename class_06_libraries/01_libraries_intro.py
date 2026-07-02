@@ -1,7 +1,6 @@
-# These notes show a Python environment setup and package comments.
-# They are not executed as code.
+ 
 # python -m venv env
-# .\env\Scripts\Activate.ps1
+# env\Scripts\Activate.ps1
 # numpy
 # pandas
 # openpyxl
